@@ -105,11 +105,6 @@ const styles = StyleSheet.create({
     borderBottomWidth: 1,
     paddingLeft: 15,
   },
-  searchResultsList: {
-    width: 340,
-    height: 200,
-    backgroundColor: '#fff',
-  },
   searchBox: {
     width: 340,
     height: 50,
