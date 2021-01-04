@@ -1,5 +1,7 @@
 # Google autocomplete example
 
+Hi there, this is the repo for the [Google-auto-complete](https://dev.to/mosoakinyemi/how-to-create-a-google-autocomplete-form-in-react-native-4ffb) blog post
+
 ![App Preveiw](documentation/app_preview.gif)
 
 ## Getting Started
